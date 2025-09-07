@@ -1,0 +1,5 @@
+all:
+    g++ Untitled-3 -o chat-message-history-manager.exe
+
+clean:
+    del chat-message-history-
